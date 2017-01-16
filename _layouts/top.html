@@ -11,7 +11,7 @@
 			<div class="top-section" style="margin:2em;">
 		<h2>Welcome to the Glycoinformatics Consortium page!</h2>
 		     {% for section in page.sections %}
-			<div>{{ section | textilize }}</div>
+			<div>{{ section['top-section'] | textilize }}</div>
 	       	     {% endfor %}
 			</div>
 			
