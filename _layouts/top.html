@@ -8,12 +8,12 @@
 
 	<div role="main">
 		<article>
-			<div class="content">
-			    <section class="main-content">
 		<h2>Welcome to the Glycoinformatics Consortium page!</h2>
 		     {% for section in page.sections %}
 			<div>{{ section | textilize }}</div>
 	       	     {% endfor %}
+			<div class="content">
+			    <section class="main-content">
 	              {{ content }}
 	            </section>
 	        </div>
