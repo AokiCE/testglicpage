@@ -1,0 +1,235 @@
+- name: Akihiro Fujita
+  github: akihirof0005
+  email: akihirof0005@gmail.com
+  bio: |
+   Akihiro Fujita
+
+- name: Chiharu Elizabeth Aoki
+  github: AokiCE
+  email: achiharu263@gmail.com
+  bio: |
+   Chiharu Elizabeth Aoki is an assistant to Kiyoko F. Kinoshita at Soka University.
+
+- name: Chris Barnett
+  github: 
+  email: chris.barnett@uct.ac.za 
+  bio: |
+   Chris Barnett
+   
+- name: Daisuke Shinmachi
+  github: shinmachi
+  email: d.shinmachi.aist@gmail.com
+  bio: |
+    Daisuke Shinmachi is a research assistant at Soka University. RDF ontology design lead and front end developer of the glycan repository.
+
+- name: David Matten
+  github: davidmatten
+  email: dmatten@gmail.com
+  bio: |
+    David Matten
+
+- name: Davide Alocci
+  github: alodavide
+  email: davide.alocci@isb-sib.ch
+  url: 
+  bio: |
+    Davide Alocci is a Marie Curie Early Stage Researcher at Swiss Institute of Bioinformatics within the Proteome Informatics Group. He is part of MzJava development team (<a href="http://mzjava.expasy.org/">http://mzjava.expasy.org</a>).
+  
+- name: Evan Bolton
+  github: evan-bolton
+  email: bolton@ncbi.nlm.nih.gov
+  url:
+  bio: |
+    Evan Bolton is a Lead Scientist at the National Center for Biotechnology Information (NCBI) and helps to lead the PubChem project (<a href="http://pubchem.ncbi.nlm.nih.gov">https://pubchem.ncbi.nlm.nih.gov</a>).
+  
+- name: Frederique Lisacek
+  github: flisacek
+  email: frederique.lisacek@isb-sib.ch
+  url:
+  bio: |      
+    Frederique Lisacek leads the Proteome Informatics Group at SIB Swiss Institute of Bioinformatics in Geneva Switzerland.
+  
+- name: Hiren Jitendra Joshi
+  github: hirenj
+  email: joshi@sund.ku.dk
+  url: http://glycomics.ku.dk
+  bio: |
+    Hiren Jitendra Joshi is an Assistant Professor developing systems on glycobiology approaches to dissect and model the glycome and glycoproteome.
+  
+- name: Issaku Yamada
+  github: yamadaissaku
+  email: yamadaissaku@gmail.com
+  url:
+  bio: |
+    Issaku Yamada is a Chemical Reseacher at Noguchi Institute.  WURCS, wurcsRDF, and WURCSFramework architect while adding functionality to the wurcs working group website (<a href="http://wurcs-wg.org/">http://wurcs-wg.org/</a>).
+  
+- name: Joseph Zaia
+  github: jzaia
+  email:
+  url:
+  bio: |
+    Joe Zaia is Professor of Biochemistry at Boston University.
+  
+- name: Joshua Klein
+  github: mobiusklein
+  email: jaklein@bu.edu
+  url: "http://mobiusklein.github.io/"
+  bio: |
+    Bioinformatics Ph.D. Candidate at Boston University, working for Joseph Zaia.  Author of <a href="https://github.com/mobiusklein/glypy">glypy</a>, a
+    glycoinformatics toolkit for Python. 
+  
+- name: Julien Mariethoz
+  github: julienmariethoz
+  email:
+  url:
+  bio: |
+    Julien Mariethoz
+  
+- name: Keiko Tokunaga
+  github: Keiko-T
+  email: keiko.t914@gmail.com
+  url:
+  bio: |
+    Keiko Tokunaga
+  
+- name: Kiyoko F. Kinoshita
+  github: kiyoko
+  email: kkiyoko@soka.ac.jp
+  url: "http://rings.t.soka.ac.jp/lab_info/Kinoshita_Laboratory/index_en.html"
+  twitter: kiyoko
+  bio: |
+    Kiyoko F. Kinoshita is a Professor in the Department of Science and Enginnering for Sustainable Innovation, Faculty of Science and Engineering, Soka University.
+
+- name: Masaaki Matsubara
+  github: 
+  email:
+  url:
+  bio: |
+    Masaaki Matsubara is a graduate student working at Noguchi Institute.  WURCS, wurcsRDF format, and sparql performance developer.
+
+- name: Masae Hosoda
+  github: mhosoda
+  email: e12d5605@gmail.com
+  url:
+  bio: |
+    Masae Hosoda
+
+- name: Matthew Campbell
+  github: 
+  email:
+  url:
+  bio: |
+    Matthew Campbell
+
+- name: Miguel Rojas Macias
+  github: miktilo
+  email: miguel.rojas@gu.se
+  bio: |
+    Miguel Rojas Macias
+
+- name: Nathan Edwards
+  github: 
+  email:
+  url:
+  bio: |
+    Nathan Edwards
+  
+- name: Niclas Karlsson
+  github:
+  email: niclas.karlsson@medkem.gu.se
+  url: "http://biomedicine.gu.se/biomedicine/research/niclas-karlsson"
+  bio: |
+    Niclas Karlsson leads the Glyco Inflammatory Group (GIG) at the Institute of Biomedicine in Gothenburg Sweden.
+
+- name: Nobuyuki Aoki
+  github: aokinobu
+  email: aokinobu@gmail.com
+  url: "http://bluetree.jp"
+  bio: |
+    Nobuyuki Aoki is a research assistant at Soka University. Technical architect, Random Programmer, and Official Plant Watcher of the glycan repository project.
+
+- name: Philip Toukach
+  github: 
+  email:
+  url:
+  bio: |
+    Philip Toukach
+  
+- name: Rene Ranzinger
+  github: ReneRanzinger
+  email:
+  url:
+  bio: |
+    Rene Ranzinger
+  
+- name: Renji Inomoto
+  github: tyokorenji
+  email: renjiseminar@gmail.com
+  url:
+  bio: |
+    Renji Inomoto  
+  
+- name: Sanjay Agravat
+  github: 
+  email:
+  url:
+  bio: |
+    Sanjay Agravat
+  
+- name: Serge Perez
+  github: 
+  email: spsergeperez@gmail.com
+  url:
+  bio: |
+    Serge Perez is a developer of "Glyco3D" software and a founder of the internet site "<a href="http://www.glycopedia.eu/">glycopedia.eu</a>". Affiliation:CNRS, France 
+    
+- name: Shinichi Higashimoto
+  github: Higashimoto
+  email: azumabonn@gmail.com
+  url:
+  bio: |
+    Shinichi Higashimoto
+
+- name: Shujiro Okuda
+  github: shuo50@gmail.com
+  email: shuo50@gmail.com
+  url:
+  bio: |
+    Shujiro Okuda
+
+- name: Sophie Zhao
+  github: 
+  email:
+  url:
+  bio: |
+    Sophie Zhao
+    
+- name: Thomas Lutteke
+  github: glycosciences
+  email: 
+  url:
+  bio: |
+    Thomas Lutteke
+    
+- name: Yuki Ushioda
+  github: egaruk
+  email: byr.wgp.jg.cg.1229@gmail.com
+  url:
+  bio: |
+    Yuki Ushioda is master student in graduate school of Soka University. Developer of FlyGlycoDB, the semantic web database of drosophila glycan related gene.
+
+- name: Yukie Akune
+  github: YukieAkune
+  email: yukie.akune@gmail.com
+  url:
+  bio: |
+    Yukie Akune
+    
+- name: Yushi Takahashi
+  github: AnnPin
+  email: e0956224@gmail.com
+  url:
+  bio: |
+    Yushi Takahashi
+    
+    
