@@ -7,12 +7,13 @@
 </section>
 
 	<div role="main">
-		<article class="top-section">
+		<article>
+			<div class="top-section">
 		<h2>Welcome to the Glycoinformatics Consortium page!</h2>
 		     {% for section in page.sections %}
 			<div>{{ section | textilize }}</div>
 	       	     {% endfor %}
-			
+			</div>
 			<div class="content">
 			    <section class="main-content">
 	              {{ content }}
