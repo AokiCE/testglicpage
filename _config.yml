@@ -1,6 +1,6 @@
-name: Glycoinformatics Consortium Developer Site
+name: Glycoinformatics Consortium Developer test Site
 description: Communication point for glycoscientists to contact glycoinformaticians
-url:  http://glic.glycoinfo.org
+url:  https://aokice.github.io/testglicpage/
 #exclude: [deprecated]
 exclude: ['vendor']
 safe: true
