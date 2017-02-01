@@ -3,6 +3,8 @@ description: Communication point for glycoscientists to contact glycoinformatici
 url:  https://aokice.github.io/testglicpage/
 #exclude: [deprecated]
 exclude: ['vendor']
+collections:
+ - sections
 safe: true
 highlighter: rouge
 markdown: kramdown
