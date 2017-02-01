@@ -5,22 +5,22 @@ layout: top
 
 
 <div section="Meetings" background="blue">
-## Meetings  
-List of past and upcoming [meetings](meetings).
-
-## Members List  
-Helpful page to know about GLIC [members](member).
+<h2>Meetings</h2>  
+<p>List of past and upcoming [meetings](meetings).</p>
+  
+  <h2>Members List</h2>  
+  <p>Helpful page to know about GLIC [members](member).</p>
 </div>
 
 <br>
 
 
 <div section="Database" background="light-green">
-## Database Resources  
-List of [database resources](database) with detailed information available specifically for glycoinformaticians.
-
-## Software Tools  
-List of [software tools](software) with detailed information available specifically for glycoinformaticians.
+<h2>Database Resources</h2>
+<p>List of [database resources](database) with detailed information available specifically for glycoinformaticians.</p>
+  
+ <h2>Software Tools</h2>
+<p>List of [software tools](software) with detailed information available specifically for glycoinformaticians.</p>
 </div>
 
 <br>
