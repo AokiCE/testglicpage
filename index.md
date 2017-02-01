@@ -27,7 +27,7 @@ layout: top
 
 
 <div section="Wishlist" background="light-orange">
-## Wish List  
-Fill out a [Form](wishList) for specific tools you wish to be developed.  
-The list of tools that are being developed is located [here](wishList/toolsList).
+<h2>Wish List</h2>  
+<p>Fill out a [Form](wishList) for specific tools you wish to be developed.</p>
+<p>The list of tools that are being developed is located [here](wishList/toolsList).</p>
 <div>
