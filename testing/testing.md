@@ -6,7 +6,6 @@ date: 2015-05-15
 reviewers:
 - Nobuyuki Aoki
 layout: paging
-last_modified_at: 2017-02-08
 ---
 
 View All Glycans
