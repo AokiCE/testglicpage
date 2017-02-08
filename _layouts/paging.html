@@ -33,6 +33,7 @@
                       {% endfor %}
                 {% endif %}
 				</p>
+				{{ page.last_modified_at }}
 				
 				{% assign reviewerCount = page.reviewers | size %}
 				{% if reviewerCount == 0 %}
